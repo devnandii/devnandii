@@ -1,8 +1,23 @@
-## Olá Dev!👾👾👾 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Olá Dev!👾👾👾</h1></summary>
+</div>
+ 
+ <details>
+
+  <summary>👋Eu sou Irlanda!</summary>
+  <br>
+
+  - 💻 Apaixonada por inovação e tecnologia. E curiosa para estar sempre atualizada sobre as ultimas tendencias.
+
+  - 📚 Atualmente estudante de Engenharia da Computação.
+  </details>
+  <p align="left">
+  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xmem94Y3IxNGN1aWZmc3EyeG8zbnRpcTBrY3Zibm90emI1c2ZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" alt="Imagem">
 
 
-### Conheça minhas redes sociais
 
+## Conheça minhas redes sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irlanda_hill/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irlanda-hildeney-605485223/)
@@ -12,12 +27,18 @@
 ### Desempenho
 ![Irlanda GitHub stats](https://github-readme-stats.vercel.app/api?username=devnandii&show_icons=true&theme=dark)
 
-### Tecnologias que estou aprendendo
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+</p>
+
+## Tecnologias que estou aprendendo
+
+<div style="display: inline_block;"><br>
+    <img align="center" alt="nandi-html5" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
+    <img align="center" alt="nandi-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="nandi-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="nandi-python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
 </div>
 
