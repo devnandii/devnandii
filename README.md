@@ -1,47 +1,59 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá Dev!👾👾👾</h1></summary>
-</div>
- 
- <details>
-
-  <summary>👋Eu sou Irlanda!</summary>
-  <br>
-
-  - 💻 Apaixonada por inovação e tecnologia. E curiosa para estar sempre atualizada sobre as ultimas tendencias.
-
-  - 📚 Atualmente estudante de Engenharia da Computação.
-  </details>
-  <p align="left">
-  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xmem94Y3IxNGN1aWZmc3EyeG8zbnRpcTBrY3Zibm90emI1c2ZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif" alt="Imagem">
 
 
+<h1 align="center">Olá, meu nome é Irlanda Hildeney! 👋</h1>
 
-## Conheça minhas redes sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irlanda_hill/) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irlanda-hildeney-605485223/)
-
-
-
-### Desempenho
-![Irlanda GitHub stats](https://github-readme-stats.vercel.app/api?username=devnandii&show_icons=true&theme=dark)
-
-
-
+<p align="center">
+  <i> 
+  🎓 Engenharia da Computação | 💻 Software & Sistemas | 🚀 Inovação Tech
+  </i>
 </p>
 
-## Tecnologias que possuo algum conhecimento
+<!-- GIF -->
+<p align="center">
+  <img src="irlanda.gif" width="500px" alt="Irlanda GIF" style="border-radius: 30px;"/>
+</p>
 
-<div style="display: inline_block;"><br>
-    <img align="center" alt="nandi-Java" height="45" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
-    <img align="center" alt="nandi-C" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />     
-    <img align="center" alt="nandi-python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="center" alt="nandi-html5" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
-    <img align="center" alt="nandi-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" alt="nandi-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="nandi-sql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-          
+<!-- REDES SOCIAIS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/irlanda-hildeney-605485223/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/irlanda_hill/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+</p>
 
-</div>
+<hr>
+
+<!-- TECNOLOGIAS -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="48" height="48"/>
+</p>
+
+<hr>
+
+<!-- CARDS -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devnandii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6&bg_color=1e1e2e" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnandii&layout=compact&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=1e1e2e" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
